@@ -11,7 +11,7 @@ I’m passionate about **data-driven problem solving**, building **intelligent s
 - 💼 Data Analyst at **StableCoupons, Inc.** | Past roles in **JA-Assure, InterviewDesk, WNS, Genik Research Institute**  
 - 🔗 Creator of **AquaChain** 🌊 – Blockchain-based fishery resource management with **HookCoin**  
 - 🌱 Currently learning **Snowflake** and **Neo4j** to strengthen my data engineering & graph DB skills  
-- 🌍 Open to opportunities in **Data Science, Analytics, and AI roles** (including US & Japan)  
+- 🌍 Open to opportunities in **Data Science, Analytics, and AI roles** (including US & India)  
 
 ---
 
